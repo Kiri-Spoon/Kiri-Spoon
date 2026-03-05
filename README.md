@@ -1,8 +1,8 @@
-# Kiri-Spoon: A Kirigami Utensil for Robot-Assisted Feeding
+# A Pivot-Based Kirigami Utensil for Hand-Held and Robot-Assisted Feeding
 
-Kiri-Spoon: A Kirigami Utensil for Robot-Assisted Feeding
+A Pivot-Based Kirigami Utensil for Hand-Held and Robot-Assisted Feeding
 
-There are three folders: Handheld Kirispoon, Robotic Kirispoon End-Effector, and Ansys Model
+There are two folders: Handheld Kirispoon and Robotic Kirispoon End-Effector
 
 There are prt, zip, step, and md files in the Handheld Kirispoon and Robotic End-Effector folders
 
